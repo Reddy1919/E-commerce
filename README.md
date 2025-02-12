@@ -1,1 +1,1 @@
-# E-commerce
+A React-based eCommerce website features a dynamic product listing, a shopping cart, and a secure checkout process. It integrates state management (Redux/Context API) for seamless user interactions and API calls for product data. The UI is responsive, with categories, filters, and authentication for a smooth shopping experience.
